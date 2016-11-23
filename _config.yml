@@ -1,17 +1,17 @@
 # Site settings
-title-bold: Forty
-title-normal: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title-bold: ThanhCS94
+title-normal: Mobile developer
+email: nguyenvanthanh9294@gmail.com
+description: Currently, I'm investing my time into learning about mobile development.</br>How I ended up on this path is a long story.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Ly Thuong Kiet
+city: Ho Chi Minh
+state: VN
+zip_code: 700000
+country: Viet Nam
+phone: (+84) 1626741286
 
 # Plugins
 
