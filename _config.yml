@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Thanh Nguyen
+bio: A Man who travels the world eating noodles and drinking coffee.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,26 +34,26 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: thanhcs94
+twitter: thanhcs94
 # google: mygoogle
-# instagram: myinstagram
+ instagram: thanhcs94
 # pinterest: mypinterest
 # linkedin: mylinkedin
-# youtube: myyoutube
+ youtube: thanhcs94
 # spotify: myspotify
-github: mygithub
+github: thanhcs94
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: thanhcs94
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: nguyenvanthanh9294@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Thanh Nguyen
+        bio: A Man who travels the world eating noodles and drinking coffee.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
